@@ -1,0 +1,25 @@
+
+
+/*
+
+#2d3142 gunmetal
+#a6c2ce pastel plue
+#9c8f96 spanish gray
+#ebc57c topaz
+#6b799e rhythm
+#b76d68 copper penny
+
+*/
+
+body {
+  background-image: linear-gradient(100deg, #9c8f96 15%, #a6c2ce 35%, #6b799e 100%);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  font-family: 'Muli', sans-serif;
+  color: #2d3142;
+}
